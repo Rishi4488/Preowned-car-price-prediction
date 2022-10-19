@@ -16,4 +16,4 @@ We are required in this notebook to model the price of cars with the available i
 
 3.Decision Tree Regressor
 
-### Random Forest is best suitable for this project as it has high r^2 Score of :0.96818
+### Random Forest is best suitable for this project as it has high r^2 Score of :0.968181
